@@ -49,3 +49,14 @@ display: flex;
     transition: .2;
     background-color: rgb(254, 121, 72);
 }
+.box-square {
+    width: 750px;
+    height: 450px;
+    background-color: #2d1a5a;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    box-shadow:  1px 2px 15px 0px;
+    border-radius: 8px;
+}
